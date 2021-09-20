@@ -1,2 +1,2 @@
 # lunaweb
-Website para a Luna Engine
+Website de apresentação para a Luna Engine
